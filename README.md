@@ -1,4 +1,4 @@
-# 🎉 Sorteador de Amigos
+# 🎉 Amigo Secreto
 
 ¡Una aplicación simple en JavaScript para agregar nombres a una lista y realizar un sorteo aleatorio para elegir un amigo! 
 
