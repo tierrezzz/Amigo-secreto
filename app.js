@@ -62,3 +62,4 @@ function sortearAmigo() {
 
     // Muestra el resultado del sorteo en un elemento con id 'resultado'
     document.getElementById('resultado').textContent = `El nombre sorteado es: ${nombreSorteado}`;
+}
